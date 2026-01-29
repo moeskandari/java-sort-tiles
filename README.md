@@ -1,4 +1,4 @@
-# InfoLab Lights – Sliding Tile Puzzle
+#Sliding Tile Puzzle
 
 A colorful 3×4 sliding tile puzzle made with Java Swing, featuring a photo split into tiles.
 
